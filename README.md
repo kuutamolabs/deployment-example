@@ -10,3 +10,4 @@ deployment_flake = "github:kuutamolabs/deployment-example"
 
 Please update to the latest version of `lightning-knd` by `nix flake update`.
 Also the first time when the repository just initialized, the repository need to update before commit.
+The access token is also list in the configure file of node, and only need read permission.
