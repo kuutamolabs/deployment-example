@@ -1,5 +1,5 @@
 deployment_flake = "github:kuutamolabs/deployment-example"
-access_tokens = "github.com=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"
+access_tokens_hash = "11889392250886621846"
 name = "kld-00"
 nixos_module = "kld-node"
 extra_nixos_modules = []

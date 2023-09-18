@@ -1,5 +1,5 @@
 {
-  inputs.lightning-knd.url = "github:kuutamolabs/lightning-knd";
+  inputs.lightning-knd.url = "github:kuutamolabs/lightning-knd/mgr";
 
   nixConfig.extra-substituters = [
     "https://cache.garnix.io"

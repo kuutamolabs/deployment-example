@@ -10,4 +10,6 @@ deployment_flake = "github:kuutamolabs/deployment-example"
 
 Please update to the latest version of `lightning-knd` by `nix flake update`.
 Also the first time when the repository just initialized, the repository need to update before commit.
-The access token is also list in the configure file of node, and only need read permission.
+
+The access token does not allow to change in upgrade, please make sure it will not expired for the all live time of the running node.
+If the access token is expired for some reason, you still can use the same mnemonic to install again.
