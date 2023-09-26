@@ -125,16 +125,16 @@
         "treefmt-nix": "treefmt-nix"
       },
       "locked": {
-        "lastModified": 1695092373,
-        "narHash": "sha256-YybRMEjufzbwJPYg+dNkAuYFeYOlnzdfFlazqVhjfBI=",
+        "lastModified": 1696324796,
+        "narHash": "sha256-+1xLzTavdIJKlTVZOBV9UBcmfB7xHpBuhpIamqHD5EU=",
         "owner": "kuutamolabs",
         "repo": "lightning-knd",
-        "rev": "56991a23eb1a97cff14ecc5aeaa572492d7b0e1b",
+        "rev": "d416b331aa9c867ae0e1142e64cdceaab90d74fd",
         "type": "github"
       },
       "original": {
         "owner": "kuutamolabs",
-        "ref": "mgr",
+        "ref": "self-upgrade",
         "repo": "lightning-knd",
         "type": "github"
       }
